@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SS Fresh Basket",
+  "description": "A premium grocery and vegetable delivery platform for Baramati, featuring fresh produce, live tracking, and easy multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
